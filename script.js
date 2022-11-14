@@ -1,0 +1,5 @@
+// Quote array
+const quotes = [
+
+]
+
